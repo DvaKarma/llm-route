@@ -1,0 +1,4 @@
+{"padrao": "modelo-medio", "regras": [
+  {"palavras": ["codigo", "bug", "refator"], "destino": "modelo-codigo", "max_tokens": 50000},
+  {"palavras": ["resumo", "traduz"], "destino": "modelo-rapido"},
+  {"palavras": ["arquitetura", "analise"], "destino": "modelo-forte"}]}
